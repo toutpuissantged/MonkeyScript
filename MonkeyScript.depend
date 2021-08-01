@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1627747918 source:c:\users\toutpuissantged\onedrive\documents\gui\monkeyscript\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"variable.h"
+
+1627657985 c:\users\toutpuissantged\onedrive\documents\gui\monkeyscript\include\variable.h
+	<string>
+
+1627658075 source:c:\users\toutpuissantged\onedrive\documents\gui\monkeyscript\src\variable.cpp
+	"Variable.h"
+	<string>
+
